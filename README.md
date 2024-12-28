@@ -34,7 +34,7 @@ The system architecture consists of:
 3. **Python Module**: Controlling scanning parameters and automating signal detection.
 
 **Block Diagram**:
-![Block Diagram](path_to_image_or_diagram)
+![Block Diagram](gnu_blockDiagram.jpg)
 
 ---
 
